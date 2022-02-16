@@ -1,0 +1,2 @@
+[placeholders]
+replace_me = { type = "string", prompt = "random indentifier name", default = "replaced" }
